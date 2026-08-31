@@ -2,16 +2,18 @@
 title: Знайомство
 ---
 
-08 вер
+01 вер
 : **Огляд**{: .label .label-blue}**Загальні деталі 👋**
   : [[HML](https://ykochura.github.io/ai-lab/?p=details.md#1)][[PDF](https://ykochura.github.io/ai-lab/pdf/details.pdf)]
+: **Матеріал**{: .label .label-red}**Для ознайомлення**
+  : [[Словник термінів](https://storage.thedigital.gov.ua/files/2/72/389a01ab0cc82040dfe172f94d1af720.pdf)]
 : **Огляд**{: .label .label-red}**Лінійна алгебра 🔭**
   : [[HML](https://ykochura.github.io/ai-lab/math/linear_algebra.html#/)][[.ipynb](https://colab.research.google.com/github/YKochura/ai-lab/blob/main/math/linear_algebra.ipynb)]
 : **Огляд**{: .label .label-red}**NumPy**
   : [[PDF](https://ykochura.github.io/ai-lab/tutor/Numpy Handbook.pdf)][.ipynb](https://colab.research.google.com/github/YKochura/cv-kpi/blob/main/tutor/ndarray.ipynb)]
 
 
-15 вер
+<!-- 15 вер
 : **ПР #1**{: .label .label-purple} **Основи Python**
   : [[Деталі](https://drive.google.com/drive/folders/1UXMAq8BbrjlXmjzbi2QAtTv58HpJnd6D?usp=sharing)]
     : **Дедлайн**:  29 вересня
@@ -35,7 +37,7 @@ title: Знайомство
     : **Дедлайн**:  24 листопада
 
 : **Семінар**{: .label .label-yellow} **Теми на семінар**
-  : [[PDF](https://ykochura.github.io/ai-lab/hw/seminar.pdf)] 
+  : [[PDF](https://ykochura.github.io/ai-lab/hw/seminar.pdf)]  -->
 
 <!-- 
 04 лис
