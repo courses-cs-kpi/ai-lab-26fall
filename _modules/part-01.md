@@ -15,7 +15,7 @@ title: Знайомство
  
 08 вер
 : **ПР #1**{: .label .label-purple} **Лінійна регресія**
-  : [[Деталі](https://ykochura.github.io/ai-lab/hw/lab2-ai.pdf)]  [[Огляд](https://ykochura.github.io/ai-lab/?p=linear-regression.md#1)]
+  : [[Деталі](https://ykochura.github.io/ai-lab/hw/lab1-ai.pdf)]  [[Огляд](https://ykochura.github.io/ai-lab/?p=linear-regression.md#1)]
     : **Дедлайн**:  28 вересня
 
 
