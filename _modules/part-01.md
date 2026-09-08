@@ -12,32 +12,32 @@ title: Знайомство
 : **Огляд**{: .label .label-red}**NumPy**
   : [[PDF](https://ykochura.github.io/ai-lab/tutor/Numpy Handbook.pdf)][.ipynb](https://colab.research.google.com/github/YKochura/cv-kpi/blob/main/tutor/ndarray.ipynb)]
 
-
-<!-- 15 вер
-: **ПР #1**{: .label .label-purple} **Основи Python**
-  : [[Деталі](https://drive.google.com/drive/folders/1UXMAq8BbrjlXmjzbi2QAtTv58HpJnd6D?usp=sharing)]
-    : **Дедлайн**:  29 вересня
-
-
  
-01 жов
-: **ПР #2**{: .label .label-purple} **Лінійна регресія**
+08 вер
+: **ПР #1**{: .label .label-purple} **Лінійна регресія**
   : [[Деталі](https://ykochura.github.io/ai-lab/hw/lab2-ai.pdf)]  [[Огляд](https://ykochura.github.io/ai-lab/?p=linear-regression.md#1)]
-    : **Дедлайн**:  15 жовтня
+    : **Дедлайн**:  28 вересня
 
 
-15 жов
-: **ПР #3**{: .label .label-purple} **Логiстична регресiя**
+<!-- 15 жов
+: **ПР #2**{: .label .label-purple} **Логiстична регресiя**
   : [[Деталі](https://ykochura.github.io/ai-lab/hw/lab3-ai.pdf)] 
     : **Дедлайн**:  29 жовтня
 
 03 лис
-: **ПР #4**{: .label .label-purple} **Передбачення серцево-судинних захворювань**
+: **ПР #3**{: .label .label-purple} **Передбачення серцево-судинних захворювань**
   : [[Деталі](https://ykochura.github.io/ai-lab/hw/lab4-ai.pdf)] 
     : **Дедлайн**:  24 листопада
 
 : **Семінар**{: .label .label-yellow} **Теми на семінар**
   : [[PDF](https://ykochura.github.io/ai-lab/hw/seminar.pdf)]  -->
+
+
+
+<!--  15 вер OLD
+: **ПР #1**{: .label .label-purple} **Основи Python**
+  : [[Деталі](https://drive.google.com/drive/folders/1UXMAq8BbrjlXmjzbi2QAtTv58HpJnd6D?usp=sharing)]
+    : **Дедлайн**:  29 вересня --> 
 
 <!-- 
 04 лис
