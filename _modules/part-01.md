@@ -18,6 +18,10 @@ title: Знайомство
   : [[Деталі](https://ykochura.github.io/ai-lab/hw/lab1-ai.pdf)]  [[Огляд](https://ykochura.github.io/ai-lab/?p=linear-regression.md#1)]
     : **Дедлайн**:  28 вересня
 
+22 вер
+: **ПР #2**{: .label .label-purple} **Лінійна регресія**
+  : [[Деталі](https://ykochura.github.io/ai-lab/hw/lab2-ai.pdf)]
+    : **Дедлайн**:  06 жовтня
 
 <!-- 15 жов
 : **ПР #2**{: .label .label-purple} **Логiстична регресiя**
