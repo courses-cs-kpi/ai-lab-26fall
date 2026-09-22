@@ -19,7 +19,7 @@ title: Знайомство
     : **Дедлайн**:  28 вересня
 
 22 вер
-: **ПР #2**{: .label .label-purple} **Лінійна регресія**
+: **ПР #2**{: .label .label-purple} **Логiстична регресiя**
   : [[Деталі](https://ykochura.github.io/ai-lab/hw/lab2-ai.pdf)]
     : **Дедлайн**:  06 жовтня
 
