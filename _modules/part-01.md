@@ -23,6 +23,11 @@ title: Знайомство
   : [[Деталі](https://ykochura.github.io/ai-lab/hw/lab2-ai.pdf)]
     : **Дедлайн**:  06 жовтня
 
+27 вер
+: **ПР #3**{: .label .label-purple} **Передбачення серцево-судинних захворювань**
+  : [[Деталі](https://ykochura.github.io/ai-lab/hw/lab3-ai.pdf)]
+    : **Дедлайн**:  18 жовтня
+
 <!-- 15 жов
 : **ПР #2**{: .label .label-purple} **Логiстична регресiя**
   : [[Деталі](https://ykochura.github.io/ai-lab/hw/lab3-ai.pdf)] 
