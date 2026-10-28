@@ -28,6 +28,11 @@ title: Знайомство
   : [[Деталі](https://ykochura.github.io/ai-lab/hw/lab3-ai.pdf)]
     : **Дедлайн**:  18 жовтня
 
+28 жов
+: **ПР #4**{: .label .label-purple} **Розпiзнавання жестiв**
+  : [[Деталі](https://ykochura.github.io/ai-lab/hw/lab4-ai.pdf)]
+    : **Дедлайн**:  20 листопада
+
 <!-- 15 жов
 : **ПР #2**{: .label .label-purple} **Логiстична регресiя**
   : [[Деталі](https://ykochura.github.io/ai-lab/hw/lab3-ai.pdf)] 
