@@ -35,7 +35,7 @@ title: Знайомство
 
 09 лис
 : **Семінар**{: .label .label-yellow} **Теми на семінар**
-  : [[PDF](https://ykochura.github.io/ai-lab/hw/seminar-ai.pdf)]  -->
+  : [[PDF](https://ykochura.github.io/ai-lab/hw/seminar-ai.pdf)] 
 
 
 <!-- 15 жов
